@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (PRP$ My) (NN aunt) (POS 's)) (NN can) (NN opener)) (VP (MD can) (VP (VB open) (NP (DT a) (NN drum)))) (. .)))

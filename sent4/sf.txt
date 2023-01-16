@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (NNP Kim)) (CC and) (NP (NNP Sandy)) (DT both)) (VP (VBD broke) (PRT (RP up)) (PP (IN with) (NP (PRP$ their) (NNS partners)))) (. .)))

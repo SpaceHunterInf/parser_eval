@@ -1,0 +1,1 @@
+(ROOT (S (NP (DT The) (NML (NNP Penn) (NNP Treebank)) (NN tagset)) (VP (VBD was) (VP (VBN culled) (PP (IN from) (NP (NP (DT the) (JJ original) (NML (CD 87) (HYPH -) (NN tag)) (NN tagset)) (PP (IN for) (NP (DT the) (NNP Brown) (NNP Corpus))))))) (. .)))

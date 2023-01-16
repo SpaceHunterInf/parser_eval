@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (DT The) (NN horse)) (CONJP (RB as) (RB well) (RB as)) (NP (NP (DT the) (NNS rabbits)) (SBAR (WHNP (WDT which)) (S (NP (PRP we)) (VP (VBD wanted) (S (VP (TO to) (VP (VB eat))))))))) (VP (VBZ has) (VP (VBN escaped))) (. .)))

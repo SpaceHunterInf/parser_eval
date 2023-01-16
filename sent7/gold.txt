@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (JJ Natural) (NNS disasters)) (PRN (: -) (NP (NNS storms) (, ,) (NN flooding) (, ,) (NNS hurricanes)) (: -))) (VP (VP (VBP occur) (ADVP (RB infrequently))) (CC but) (VP (VBP cause) (NP (NP (NN devastation)) (SBAR (WHNP (WDT that)) (S (VP (VBZ strains) (NP (NNS resources)) (PP (IN to) (NP (VBG breaking) (NN point))))))))) (. .)))
